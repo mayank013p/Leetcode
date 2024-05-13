@@ -33,6 +33,5 @@ class Solution {
             temp = fn.next;
         }
         return head;
-
     }
 }
